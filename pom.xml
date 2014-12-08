@@ -57,7 +57,7 @@
         </dependency>
         <dependency>
             <groupId>ru.yandex.qatools.allure</groupId>
-            <artifactId>allure-spock-adaptor</artifactId>
+            <artifactId>allure-spock-1.0-adaptor</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>test</scope>
         </dependency>
